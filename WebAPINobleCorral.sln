@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPINobleCorral", "WebAPINobleCorral\WebAPINobleCorral.csproj", "{272CBC57-D3E5-45D9-8D5C-7C58CBF3F27A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{272CBC57-D3E5-45D9-8D5C-7C58CBF3F27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272CBC57-D3E5-45D9-8D5C-7C58CBF3F27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272CBC57-D3E5-45D9-8D5C-7C58CBF3F27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272CBC57-D3E5-45D9-8D5C-7C58CBF3F27A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDD534C9-7E0F-44CE-A3A5-40673DF5B9BC}
+	EndGlobalSection
+EndGlobal
